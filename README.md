@@ -4,7 +4,7 @@ This repository contains the Python implementation of the classic board game, Sn
 # Game Description
 The Snake and Ladder game simulates the traditional board game where players roll a dice to move their token on a board with 100 squares. The board includes snakes and ladders, which will move the player down or up respectively.
 
-### Features
+# Features
 
 - **Two Player Game**: Play against a friend in turn-based fashion.
 - **Random Dice Rolls**: Simulates rolling a six-faced dice.
